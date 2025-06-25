@@ -1,6 +1,6 @@
- 📝 TP ASISTENCIA – Sistema de Gestión de Asistencias
+🌿 Sistema de Gestión – Yerba Amerí
 
-Este sistema está diseñado específicamente para **gestionar la asistencia de personas** en una institución o grupo determinado.
+Este sistema está diseñado para gestionar de forma integral la información de **productos, stock, proveedores y clientes** de la empresa de yerba *Amerí*.
 
 👥 Integrantes del equipo:
 - Uma Rovetta
@@ -10,31 +10,32 @@ Este sistema está diseñado específicamente para **gestionar la asistencia de 
 
  🎯 Funcionalidades del Sistema
 
-✅ Registrar personas (Alta de usuarios)
-Como administrador del sistema, quiero registrar nuevas personas con sus datos,  
-para poder llevar un control individual de la asistencia de cada una.
+✅ Gestión de Proveedores
+Como administrador del sistema, quiero registrar nuevos proveedores con sus datos,  
+para mantener actualizada la información de quienes abastecen nuestros productos.
 
 **Responsable:** Uma Rovetta  
-🔗 [Alta de usuario (ChatGPT)](https://chatgpt.com/share/684a1486-e03c-8012-939d-fc69985bbda8)
+🔗 [Alta de Proveedor (ChatGPT)](https://chatgpt.com/share/684a1486-e03c-8012-939d-fc69985bbda8)
 
-✅ Marcar asistencia diaria
-Como administrador del sistema, quiero marcar la asistencia diaria de las personas registradas,  
-para llevar un seguimiento preciso de quién asistió y quién no en cada jornada.
+✅ Gestión de Productos
+Como administrador del sistema, quiero registrar y administrar los productos de yerba,  
+para tener control sobre sus variedades, presentaciones y precios.
 
 **Responsable:** Stefania Britos  
-🔗 [Marcar asistencia (ChatGPT)](https://chatgpt.com/share/684a1509-f170-8008-97c7-5e8d94af7820)
+🔗 [Gestión de Productos (ChatGPT)](https://chatgpt.com/share/684a1509-f170-8008-97c7-5e8d94af7820)
 
-
-✅ Ver asistencia por persona o grupo
-Como administrador del sistema, quiero consultar los registros de asistencia por persona o grupo,  
-para obtener estadísticas y detectar patrones de asistencia o inasistencia.
+ ✅ Control de Stock
+Como administrador del sistema, quiero registrar y actualizar el stock disponible,  
+para garantizar el seguimiento correcto de las existencias de cada producto.
 
 **Responsable:** Sol De Francesco  
-🔗 [Asistencia por persona (ChatGPT)](https://chatgpt.com/share/684a152f-dedc-8013-9ee6-aba55c5fe79d)
+🔗 [Gestión de Stock (ChatGPT)](https://chatgpt.com/share/684a152f-dedc-8013-9ee6-aba55c5fe79d)
 
-✅ Editar o eliminar registros
-Como administrador del sistema, quiero editar o eliminar los datos de una persona o registros de asistencia,  
-para corregir errores o actualizar la información cuando sea necesario.
+✅ Gestión de Clientes
+Como administrador del sistema, quiero registrar y gestionar clientes,  
+para mantener un historial de contactos y facilitar el proceso comercial.
 
 **Responsable:** Benjamín Zazua  
-🔗 [Editar/Eliminar registros (Gemini)](https://gemini.google.com/u/1/app/0d078d39dea68b0e?utm_source=HPP-ms&utm_medium=Owned&utm_campaign=i18n-adv-may&hl=es_419)
+🔗 [Gestión de Clientes (Gemini)](https://gemini.google.com/u/1/app/0d078d39dea68b0e?utm_source=HPP-ms&utm_medium=Owned&utm_campaign=i18n-adv-may&hl=es_419)
+
+
