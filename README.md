@@ -1,36 +1,40 @@
-🧾 Historia de Usuario Detallada: Sistema de Gestión Yerba Amerí
-Título: Gestión integral del sistema de yerba Amerí
+ 📝 TP ASISTENCIA – Sistema de Gestión de Asistencias
 
-📌 Como equipo de desarrollo,
-Queremos crear un sistema web para la empresa Amerí,
-Para gestionar de forma centralizada la información de productos, stock, proveedores y clientes,
-Y así facilitar el trabajo administrativo y mejorar la trazabilidad de sus operaciones.
+Este sistema está diseñado específicamente para **gestionar la asistencia de personas** en una institución o grupo determinado.
 
-🎯 Criterios de Aceptación:
-✅ El sistema debe permitir realizar ABM (Alta, Baja y Modificación) de:
+👥 Integrantes del equipo:
+- Uma Rovetta
+- Stefania Britos
+- Sol De Francesco
+- Benjamín Zazua
 
-Productos (nombre, tipo de yerba, presentación, precio)
+ 🎯 Funcionalidades del Sistema
 
-Clientes (nombre, apellido, CUIT, email)
+✅ Registrar personas (Alta de usuarios)
+Como administrador del sistema, quiero registrar nuevas personas con sus datos,  
+para poder llevar un control individual de la asistencia de cada una.
 
-Stock (producto, cantidad disponible, fecha de actualización)
+**Responsable:** Uma Rovetta  
+🔗 [Alta de usuario (ChatGPT)](https://chatgpt.com/share/684a1486-e03c-8012-939d-fc69985bbda8)
 
-Proveedores (nombre, contacto, tipo de producto que suministra)
+✅ Marcar asistencia diaria
+Como administrador del sistema, quiero marcar la asistencia diaria de las personas registradas,  
+para llevar un seguimiento preciso de quién asistió y quién no en cada jornada.
 
-✅ El frontend debe ser claro, responsivo y accesible desde dispositivos móviles.
+**Responsable:** Stefania Britos  
+🔗 [Marcar asistencia (ChatGPT)](https://chatgpt.com/share/684a1509-f170-8008-97c7-5e8d94af7820)
 
-✅ Los íconos y estilo deben estar en una paleta verde, representando la yerba y su identidad visual.
 
-✅ El backend debe almacenar todos los datos en memoria (o con opción de agregar base de datos luego).
+✅ Ver asistencia por persona o grupo
+Como administrador del sistema, quiero consultar los registros de asistencia por persona o grupo,  
+para obtener estadísticas y detectar patrones de asistencia o inasistencia.
 
-✅ Deben crearse 4 issues correspondientes a cada módulo funcional, asignadas a cada integrante.
+**Responsable:** Sol De Francesco  
+🔗 [Asistencia por persona (ChatGPT)](https://chatgpt.com/share/684a152f-dedc-8013-9ee6-aba55c5fe79d)
 
-🧪 Escenarios de uso:
-Alta de proveedor: Uma ingresa a la sección Proveedores, carga nombre y contacto, y lo guarda. El proveedor aparece en la tabla con botón de editar o eliminar.
+✅ Editar o eliminar registros
+Como administrador del sistema, quiero editar o eliminar los datos de una persona o registros de asistencia,  
+para corregir errores o actualizar la información cuando sea necesario.
 
-Actualización de stock: Sol detecta que se vendieron 10 paquetes, entra a la sección Stock y actualiza la cantidad disponible del producto correspondiente.
-
-Registro de producto nuevo: Tefi lanza una nueva variedad de yerba orgánica, entra a Productos, la agrega con sus datos y queda disponible para ser asignada a stock.
-
-Consulta de clientes: Benja revisa en su sección qué clientes han comprado, edita su información y los mantiene actualizados.
-
+**Responsable:** Benjamín Zazua  
+🔗 [Editar/Eliminar registros (Gemini)](https://gemini.google.com/u/1/app/0d078d39dea68b0e?utm_source=HPP-ms&utm_medium=Owned&utm_campaign=i18n-adv-may&hl=es_419)
